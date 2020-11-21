@@ -1,0 +1,11 @@
+G:\OneDrive\Projects\ZMS\ZMS\ZMS.Domain\bin\Debug\net5.0\ZMS.Domain.deps.json
+G:\OneDrive\Projects\ZMS\ZMS\ZMS.Domain\bin\Debug\net5.0\ZMS.Domain.dll
+G:\OneDrive\Projects\ZMS\ZMS\ZMS.Domain\bin\Debug\net5.0\ref\ZMS.Domain.dll
+G:\OneDrive\Projects\ZMS\ZMS\ZMS.Domain\bin\Debug\net5.0\ZMS.Domain.pdb
+G:\OneDrive\Projects\ZMS\ZMS\ZMS.Domain\obj\Debug\net5.0\ZMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\OneDrive\Projects\ZMS\ZMS\ZMS.Domain\obj\Debug\net5.0\ZMS.Domain.AssemblyInfoInputs.cache
+G:\OneDrive\Projects\ZMS\ZMS\ZMS.Domain\obj\Debug\net5.0\ZMS.Domain.AssemblyInfo.cs
+G:\OneDrive\Projects\ZMS\ZMS\ZMS.Domain\obj\Debug\net5.0\ZMS.Domain.csproj.CoreCompileInputs.cache
+G:\OneDrive\Projects\ZMS\ZMS\ZMS.Domain\obj\Debug\net5.0\ZMS.Domain.dll
+G:\OneDrive\Projects\ZMS\ZMS\ZMS.Domain\obj\Debug\net5.0\ref\ZMS.Domain.dll
+G:\OneDrive\Projects\ZMS\ZMS\ZMS.Domain\obj\Debug\net5.0\ZMS.Domain.pdb
