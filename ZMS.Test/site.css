@@ -1,0 +1,104 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+body {
+    background-color: #222;
+}
+hr {
+    border: .5px solid #736b5e;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+/* Applicant Details Section */
+.DetailsTitle{
+    display: flex;
+    justify-content: space-between;
+}
+.AppDetailsHeader {
+    text-align: center;
+}
+.AppDetailButtons {
+    float: right;
+    padding: 5px, 5px, 5px, 5px;
+    margin-top: 15px;
+}
+/* End Applicant Details Section */
+
+/* Equipment Section */
+.Gear-Status-table {
+    margin: 0 auto;
+    width: 30%;
+    text-align: center;
+}
+
+.Good-Cell {
+    color: green;
+    text-align: center;
+    font-weight: bold;
+}
+
+.Needs-Attention-Cell {
+    color: yellow;
+    text-align: center;
+    font-weight: bold;
+}
+
+.Retired-Cell {
+    color: red;
+    text-align: center;
+    font-weight: bold;
+}
+/* End Equipment Section */
+.header {
+    text-align: center;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+}
+.navbar {
+    
+}
+
+a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+a {
+   
+}
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px; /* Vertically center the text there */
+}
+
+

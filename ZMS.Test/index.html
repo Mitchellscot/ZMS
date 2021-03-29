@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>| Zip Line Management System |</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/darkly/bootstrap.min.css" integrity="sha384-nNK9n28pDUDDgIiIqZ/MiyO3F4/9vsMtReZK39klb/MtkZI3/LtjSjlmyVPS3KdN" crossorigin="anonymous">
+    <link rel="stylesheet" href="site.css" />
+    <script src="https://kit.fontawesome.com/9a06f5164b.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href="/">Zip Line Management System</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-light" href="/Applicants/AllApplicants">Applicant Tracker</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-light" href="/Equipment/Summary">Equipment Management</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <br />
+    <div class="container">
+        <main role="main" class="pb-3">
+            <!--content goes here-->
+        </main>
+    </div>
+
+    <footer class="footer text-muted">
+        <div class="container">
+            &copy; 2020 - Mitchell Scott - <a href="/Privacy">Privacy</a>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/site.js?v=D4TFpxvZBRwxBiTkpn2L_q-zBuyBxK-Rvd7M1cA7jP4"></script>
+    <script>
+            $(document).ready(function(){
+            $(".notification").fadeIn("slow").append(".container");
+            $(".close").click(function(){
+            $(".notification").hide("slow");});})</script>
+</body>
+</html>

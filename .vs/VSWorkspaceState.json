@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ZMS",
+    "\\ZMS.Data",
+    "\\ZMS.Data\\Applicants",
+    "\\ZMS.Data\\Migrations",
+    "\\ZMS.Domain",
+    "\\ZMS.Domain\\Applicants",
+    "\\ZMS\\Areas",
+    "\\ZMS\\Areas\\Applicants",
+    "\\ZMS\\Areas\\Applicants\\Pages"
+  ],
+  "SelectedNode": "\\ZMS.Domain\\Applicants\\Applicant.cs",
+  "PreviewInSolutionExplorer": false
+}
